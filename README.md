@@ -13,6 +13,7 @@
 ---
 
 <p align="center"><em>building bots that think and feel (kinda). always up for some webrtc, web3, or ml chaos — let’s cook</em></p>
+<p align="center">Check out the organization we're building: [HyperKuvid-Labs](https://github.com/HyperKuvid-Labs)</p>
 
 ---
 
@@ -21,15 +22,13 @@
 `python`, `typescript`, `react`, `next.js`, `tensorflow`, `pytorch`, `aws`...  
 *you know the usual suspects.*
 
----
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.gifer.com/2DYS.gif" width="400"/>
-</p>
+</p> -->
 
 ---
 
-### 📊 github stats (because why not)
+### github stats (because why not)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mantissagithub&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" />
