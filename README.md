@@ -13,7 +13,7 @@
 ---
 
 <p align="center"><em>building bots that think and feel (kinda). always up for some webrtc, web3, or ml chaos — let’s cook</em></p>
-<p align="center">Check out the organization we're building: [HyperKuvid-Labs](https://github.com/HyperKuvid-Labs)</p>
+<p align="center">Check out the organization we're building: <b>HyperKuvid-Labs</b> → https://github.com/HyperKuvid-Labs</p>
 
 ---
 
