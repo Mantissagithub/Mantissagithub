@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.pradheep.dev/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/pradheep-rao-88a339250/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/pradheepraop/">LinkedIn</a> •
   <a href="https://x.com/pradheepraop">X</a>
 </p>
 
