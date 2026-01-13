@@ -31,9 +31,9 @@
 ### github stats (because why not)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mantissagithub&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mantissagithub&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mantissagithub&theme=midnight-purple&hide_border=false" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mantissagithub&theme=tokyonight"/>
 </p>
 
 ---
