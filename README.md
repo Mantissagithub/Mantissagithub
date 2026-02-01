@@ -30,7 +30,11 @@
 
 ### github stats (because why not)
 
-<p align="center">
+<div align="center">
+  <img src="./metrics-isocalendar.svg" alt="Isometric commit calendar" width="400">
+</div>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Mantissagithub&show_icons=true&theme=tokyonight"/>
   <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mantissagithub&theme=tokyonight"/>
@@ -40,4 +44,4 @@
 
 <p align="center">
   Shaping the future, one totally bug-free commit at a time 😎✨ (<b>hopefully</b>)
-</p>
+</p> -->
