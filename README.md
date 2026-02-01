@@ -19,7 +19,7 @@
 
 ### Tech Stack:
 **stack i work with currently**:  
-`python`, `typescript`, `react`, `next.js`, `tensorflow`, `pytorch`, `aws`...  
+`python`, `typescript`, `react`, `next.js`, `pytorch`, `aws`...  
 *you know the usual suspects.*
 
 <!-- <p align="center">
