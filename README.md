@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.pradheep.dev/blog">blogs</a> ·
+  <a href="https://www.pradheep.dev/blogs">blogs</a> ·
   <a href="https://www.pradheep.dev/summary">paper summaries</a> ·
   <a href="https://x.com/pradheepraop">x</a>
 </p>
