@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  writing about things i understand, summarizing papers i like, and always happy to connect — pradheepraop [at] gmail [dot] com
+  writing about things i understand, summarizing papers i like, and always happy to connect -> pradheepraop [at] gmail [dot] com
 </p>
